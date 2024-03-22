@@ -18,7 +18,7 @@
 ![Customer Churn](./customer_churn.jpeg)
 
 ### Movie Recommender System
-- Preprocessed the MovieLens 100k dataset and conducted Exploratory Data Analysis (EDA) to gain insights into the dataset, employing \textbf{Matplotlib and Seaborn} for data visualization to enhance the interpretability of the findings.
+- Preprocessed the MovieLens 100k dataset and conducted Exploratory Data Analysis (EDA) to gain insights into the dataset, employing Matplotlib and Seaborn for data visualization to enhance the interpretability of the findings.
 - ⁠Employed Natural Language Processing (NLP) techniques, utilized Bag-of-Words and TF-IDF models to convert textual data into vectors, subsequently employing cosine similarity to extract the top 5 movies that exhibit the highest correlation based on their textual content.
 - Designed a UI utilizing Python's Streamlit framework for UI to showcase the posters and names of the top 5 recommended movies, providing an interactive and visually engaging user experience.
 ![Movie Recommender](./movie_recommender.png)
