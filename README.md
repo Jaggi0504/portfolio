@@ -12,7 +12,7 @@
 
 ## Projects
 ### Telco Customer Churn
-- ⁠Employed Machine Learning Models, such as Logistic Regression and Decision Tree Classifier, resulting in around 79% accuracy for Logistic Regression and about 70% for the Decision Tree Classifier. Conducted Hyperparameter Tuning using Grid Search CV to optimize the performance of the Decision Tree Classifier, enhancing training accuracy to about 79\% and testing accuracy to approximately 77%.
+- ⁠Employed Machine Learning Models, such as Logistic Regression and Decision Tree Classifier, resulting in around 79% accuracy for Logistic Regression and about 70% for the Decision Tree Classifier. Conducted Hyperparameter Tuning using Grid Search CV to optimize the performance of the Decision Tree Classifier, enhancing training accuracy to about 79% and testing accuracy to approximately 77%.
 - Applied Artificial Neural Network (ANN) algorithm with the early stopping technique to train the model for 100 epochs, resulting in accuracies of approximately 81% in training, and around 78% in testing and evaluation.
 - ⁠Utilized Power BI and conducted DAX queries to create an interactive dashboard with a variety of charts, enhancing data visualization for improved comprehension by business professionals.
 ![Customer Churn](./customer_churn.jpeg)
